@@ -7,8 +7,8 @@
 **From:** [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
 ## Contains
-- [Build an Arithmetic Formatter]()
-- [Build a Time Calculator]()
+- [Build an Arithmetic Formatter](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/arithmetic_arranger.py)
+- [Build a Time Calculator](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/time_calculator.py)
 - [Build a Budget App]()
 - [Build a Polygon Area Calculator]()
 - [Build a Probability Calculator]()
