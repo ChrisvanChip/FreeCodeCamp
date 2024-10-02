@@ -11,7 +11,7 @@ FreeCodeCamp offers courses in Python that are, well, free. But they also give f
 - I will not use Copilot / ChatGPT / any other AI tool to explain, interpret, write or otherwise tackle an issue.
 - When searching the internet / SO, I will limit myself to syntax-related questions.
 - I will not copy code outside of the FreeCodeCamp brief.
-- I will only submit my code for testing when I'm absolutely sure I've solved the project. This is to prevent writing code for specific test cases and keep code more resilient.
+- I will only submit my code for testing when I'm absolutely sure I've solved the project. This is to prevent writing code for specific test cases and to keep code more resilient.
 
 ### Projects
 [**Scientific Computing with Python**](https://github.com/ChrisvanChip/FreeCodeCamp/tree/main/Sci-Comp-Python):
