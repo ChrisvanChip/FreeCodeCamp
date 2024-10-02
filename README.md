@@ -3,7 +3,7 @@
 ### Introduction
 Over the past few years, I've always been solving problems with web apps, always being in my JavaScript (and recently PHP Laravel) bubble and coming up with sub-optimal solutions (due to my lack of experience in other fields).
 
-At the same time, I discovered that in the next two years on my education journey, I will be faced with two programming languages I barely scratched the surface of: Python and Java. 
+At the same time, I discovered that in the next two years on my education journey, I will be facing two programming languages I barely scratched the surface of: Python and Java. 
 
 FreeCodeCamp offers courses in Python that are, well, free. But they also give freedom and diverse scoped projects, making it easier to focus & explore the programming language while having that euphoric moment once you've solved the challenge!
 
