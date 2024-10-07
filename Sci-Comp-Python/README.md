@@ -9,6 +9,6 @@
 ## Contains
 - [Build an Arithmetic Formatter](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/arithmetic_arranger.py)
 - [Build a Time Calculator](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/time_calculator.py)
-- [Build a Budget App]()
+- [Build a Budget App](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/budget_app.py)
 - [Build a Polygon Area Calculator]()
 - [Build a Probability Calculator]()
