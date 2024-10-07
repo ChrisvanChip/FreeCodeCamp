@@ -15,5 +15,6 @@ FreeCodeCamp offers courses in Python that are, well, free. But they also give f
 
 ### Projects
 [**Scientific Computing with Python**](https://github.com/ChrisvanChip/FreeCodeCamp/tree/main/Sci-Comp-Python):
-- [Build an Arithmetic Formatter]()
-- [Build a Time Calculator]()
+- [Build an Arithmetic Formatter](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/arithmetic_arranger.py)
+- [Build a Time Calculator](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/time_calculator.py)
+- [Build a Budget App](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/budget_app.py)
