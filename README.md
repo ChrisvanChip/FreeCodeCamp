@@ -18,3 +18,4 @@ FreeCodeCamp offers courses in Python that are, well, free. But they also give f
 - [Build an Arithmetic Formatter](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/arithmetic_arranger.py)
 - [Build a Time Calculator](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/time_calculator.py)
 - [Build a Budget App](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/budget_app.py)
+- [Build a Polygon Area Calculator](https://github.com/ChrisvanChip/FreeCodeCamp/blob/main/Sci-Comp-Python/polygon_area.py)
